@@ -1,0 +1,8 @@
+.*
+!.gitignore
+*.sublime-*
+*copy.*
+build/
+node_modules/
+src/components/Nav2.js
+DEVNOTES.md

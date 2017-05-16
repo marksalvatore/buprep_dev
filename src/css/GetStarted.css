@@ -1,0 +1,51 @@
+/*----------------
+  GetStarted
+ */
+
+@import 'base.css';
+@import 'helpers.css';
+@import 'animation.css';
+
+.GetStarted {
+  font-size: 1.6rem;
+  text-align: center;
+  width: 100%;
+}
+
+.GetStarted button {
+  margin-top: 1rem;
+}
+
+.GetStarted button a, .GetStarted button a:visited {
+  color: white;
+}
+
+.GetStarted button a:hover {
+  color: gold;
+}
+
+.GetStarted h1 {
+  visibility: hidden;
+  color: #4A98D8;
+  font-family: 'Jura', sans-serif;
+  font-size: 4rem;
+  font-weight: normal;
+  margin: 0;
+}
+
+.GetStarted h2 {
+  font-family: 'Jura', sans-serif;
+  font-size: 2.2rem;
+  font-weight: normal;
+  margin: 0;
+  
+}
+
+.GetStarted .logo {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.GetStarted .logo img {
+  width: 250px;
+}
