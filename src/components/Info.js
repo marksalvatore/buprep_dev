@@ -16,7 +16,7 @@ const Info = () => {
           <p><em><Link to="/">BU Exam Prep</Link></em> is a free app designed to work on your phone or tablet to assist you as you prepare to take <a href="http://billiarduniversity.org/exams.html">Billiard University Exams I & II</a>.</p>
           <p><em><Link to="/">BU Exam Prep</Link></em> contains all of the same drills for all levels of the two exams. The app provides a way to track your performance of these drills, so you can identify what you need to focus on in your practice.
           </p>
-          <p>While the drills are the same as the exams, be aware that the method of scoring differs from official scoring. We did this to limit the effort required to record your score. This makes the app easier to use and less of a disruption as you move from the table, to your phone, and back to the table again.
+          <p>While the drills are the same as the exams, be aware that the method of scoring differs from the official scoring.
           </p>
           </div>
 
@@ -32,7 +32,7 @@ const Info = () => {
           </p>
           <p>For convenience, you might decide to put all drills into one routine, or opt to group the drills into multiple routines. It doesn't matter that a drill is placed in multiple routines. Scores will always apply to the drill, regardless of which routine contains it. Likewise, deleting a drill or a routine will not impact past drill scores. Routines are really just a bucket to hold the drills you want to work on. Drills live beyond any routine they might be associated with, and can only be deleted by clearing your browser's storage/cache.
           </p>
-          <p>Be aware that the current version of the app saves your score history in your browser's storage, so clearing data from your browser might clear your drill history.</p>
+          <p>Be aware that the current version of the app saves your score history in your browser's storage, so clearing the cache from your browser might clear your drill history.</p>
         </div>
 
         <h2>About</h2>
