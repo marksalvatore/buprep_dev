@@ -33,11 +33,10 @@
 
 .NewRoutine .frame-list-column {
 	align-self: flex-start;
-
 	flex-basis: 45%;
 	flex-grow: 1;
 	font-family: 'Jura', sans-serif;
-	font-size: 1.1rem;
+	font-size: 1rem;
 	margin: 0 0 0 1rem;
 	max-width: 15rem;
 	padding: 0;
