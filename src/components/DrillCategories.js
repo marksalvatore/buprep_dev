@@ -11,15 +11,41 @@ const DrillCategories = (props) => {
 		return cat.charAt(0).toUpperCase() + cat.slice(1);
 	};
 
-/*	let catLabel = (cat) => {
+	// Hack!  special category sort
+	let cats = [];
+	for( let i=0; i<= categories.length + 1; i++) {
+		switch(categories[i]) {
+			case 'fundamentals' :
+			cats[0] = categories[i];
+				break;
+
+			case 'bachelors' :
+			cats[1] = categories[i];
+				break;
+
+			case 'masters' :
+			cats[2] = categories[i];
+				break;
+
+			case 'doctorate' :
+			cats[3] = categories[i];
+				break;
+
+			default :
+		}
+	}
+
+/*	Format as: "Exam 1" & "Exam 2"
+let catLabel = (cat) => {
 		let label = cat.charAt(0).toUpperCase() + cat.slice(1);
 		return label.substr(0, label.length -1) + ' ' + label.charAt(label.length - 1);
 	};
 */
   return (
 
+
 		<ul className="DrillCategories">
-		  { categories.map((cat, index) => {
+		  { cats.map((cat, index) => {
 			    return (
 				    	<li key={index}><button className={selectedCategory === cat ? 'category-on' : null} onClick={(e) => updateCategory(e)} data-category={cat}>{catLabel(cat)}</button></li>
 			  	);
