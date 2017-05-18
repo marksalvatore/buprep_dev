@@ -31,7 +31,7 @@ class NewRoutine extends React.Component {
       routines: {},
       selectedDrills: [],
       routineTitle: 'Monday',
-      selectedCategory: 'exam1'
+      selectedCategory: 'fundamentals'
     };
   }
 
