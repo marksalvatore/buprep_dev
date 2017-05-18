@@ -4,7 +4,7 @@
    "title": "F1 - Cut Shot",
    "category": "fundamentals",
    "rules": "<ul><li>The CB is shown in the 4rth position, but begin with the CB in the first position on the gray line, opposite the diamond marked with the number 1.</li><li>Place the OB (the1-ball) at one ball's width from the rail as indicated.<li>Shoot the shot until you make it. If you miss, replace the CB and OB to their original positions and try again keeping track of each attempt.</li><li>With each success, position the CB at the next diamond on the line parallel to the rail as indicated.</li></lu>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f1_cuts.svg"
  },
  {
@@ -12,7 +12,7 @@
    "title": "F2 - Stop Shot",
    "category": "fundamentals",
    "rules": "<ul><li>Follow the instructions from drill F1.</li><li>The OB must be pocketed and the stopped CB must rest no more than one ball-length from the ghost ball position to be considered a success.</li><li>The CB is allowed to contact the cushion.</li><li>You are allowed to vary the CB and OB positions away from the rail as long as the CB remains within one diamond of the rail.</li></ul>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f2_stops.svg"
  },
  {
@@ -20,7 +20,7 @@
    "title": "F3 - Follow Shot",
    "category": "fundamentals",
    "rules": "<ul><li>Follow the instructions from drill F1.</li><li>The rectangular target can be printed and cut out from a template on the website. It is an 8.5”x11” sheet of paper with the center removed, leaving a 1 inch border.</li><li>The CB and OB are always 1 diamond apart.</li><li>The OB must be pocketed and the CB must end up within or overlapping the target for success.</li><li>Both the CB and OB are allowed to contact cushions. </li><li>You are allowed to vary the CB and OB positions away from the rail as long as the CB remains within one diamond of the rail.</li></ul>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f3_follows.svg"
  },
  {
@@ -28,7 +28,7 @@
    "title": "F4 - Draw Shot",
    "category": "fundamentals",
    "rules": "<ul><li>Follow the instructions from drill F1. </li><li>You must pocket the OB and the CB must end up within the 2x1 diamond rectangle adjacent to the side pocket. The CB center (or resting point on the cloth) must be inside of the rectangle border.</li><li>The CB is allowed to hit the side cushion.</li><li>The target rectangle area is fixed and does not move with the CB. </li><li>You are allowed to vary the CB and OB positions away from the rail as long as the CB remains within one diamond of the rail.</li></ul>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f4_draws.svg"
  },
  {
@@ -36,7 +36,7 @@
    "title": "F5 - Stun Shot",
    "category": "fundamentals",
    "rules": "<ul><li>The OB must be pocketed and the CB must end up within or overlapping the target for success. </li><li>Start with the target in position 1.</li><li>With each success, advance the target one position.</li><li>Note that the target center and orientation for position 4 is different from the others, with the long edge against the rail cushion. The target centers for the other positions are aligned with the long-rail diamonds.</li><li>The CB must head straight to the target (without cushion contact) for positions 1, 2, and 3, and the CB must rebound off the end rail for target positions 5, 6, and 7. Cushion contact is allowed, but not required, for target position 4.</li></ul>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f5_stuns.svg"
  },
  {
@@ -44,7 +44,7 @@
    "title": "F6 - Pocketing",
    "category": "fundamentals",
    "rules": "<li>Shoot all 5 shots from each CB position, attempting to pocket the OBs as shown.</li><li>Shoot each shot until you make it, replacing the CB and OB to their original positions before attempting again.</li><li>With each success, set up for the next shot as indicated.</li><li>You are not allowed to scratch. </li></ul>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f6_pocketing.svg"
  },
  {
@@ -52,7 +52,7 @@
    "title": "F7 - Wagon Wheel",
    "category": "fundamentals",
    "rules": "<ul><li>Pocket the OB and have the CB hit each of the rail target balls.</li><li>You score a point by pocketing the OB and hitting the current target ball. </li><li>Rail-first contact adjacent to the target ball is allowed, but you are not allowed to hit any other cushion on the way to the target ball.</li><li>Remove target balls completed, and reposition any remaining balls that are disturbed.</li></ul>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f7_wheel.svg"
  },
  {
@@ -60,7 +60,7 @@
    "title": "F8 - Grid Target",
    "category": "fundamentals",
    "rules": "<ul><li>The OB (1 ball) must be pocketed and the CB must end up within or overlapping each of the targets. </li><li>You can take any path to the target.</li></ul>",
-   "scoring": "Points = number of times you succeeded. Attempts = number of times you shot.",
+   "scoring": "Points = number of times you succeed. Attempts = number of times you shoot.",
    "url": "http://billiarduniversity.salvatore.us/images/f8_targets.svg"
  },
  {
@@ -180,7 +180,7 @@
    "title": "B10 - Break Shot",
    "category": "bachelors",
    "rules": "<ul><li>Break the balls from behind the head string.</li><li>Score 1 point for each of the following:<ol><li>No scratch.</li><li>The CB was not driven to a cushion.</li><li>The CB remained within the center 4-diamond target zone during the entire break.</li><li>A ball(s) was pocketed</li><li></ol></li><li>Three or more OBs either pocketed and/or driven above the head string.</li></ul>",
-   "scoring": "Points = number of points scored according to the rules section. Attempts = Enter 5 for each break attempt.",
+   "scoring": "Points = number of points scored according to the rules listed in the rules section. Attempts = Enter 5 for each break attempt.",
    "url": "http://billiarduniversity.salvatore.us/images/b10_break.svg"
  },
  {
@@ -300,7 +300,7 @@
    "title": "M10 - Break Shot",
    "category": "masters",
    "rules": "<ul><li>Break the balls from behind the head string.</li><li>Score 1 point for each of the following:<ol><li>No scratch.</li><li>The CB was not driven to a cushion.</li><li>The CB remained within the center 4-diamond target zone during the entire break.</li><li>A ball(s) was pocketed</li><li></ol></li><li>Three or more OBs either pocketed and/or driven above the head string.</li></ul>",
-   "scoring": "Points = number of points scored according to the rules section. Attempts = Enter 5 for each break attempt.",
+   "scoring": "Points = number of points scored according to the rules listed in the rules section. Attempts = Enter 5 for each break attempt.",
    "url": "http://billiarduniversity.salvatore.us/images/m10_break.svg"
  },
  {
@@ -420,7 +420,7 @@
    "title": "D10 - Break Shot",
    "category": "doctorate",
    "rules": "<ul><li>Break the balls from behind the head string.</li><li>Score 1 point for each of the following:<ol><li>No scratch.</li><li>The CB was not driven to a cushion.</li><li>The CB remained within the center 4-diamond target zone during the entire break.</li><li>A ball(s) was pocketed</li><li></ol></li><li>Three or more OBs either pocketed and/or driven above the head string.</li></ul>",
-   "scoring": "Points = number of points scored according to the rules section. Attempts = Enter 5 for each break attempt.",
+   "scoring": "Points = number of points scored according to the rules listed in the rules section. Attempts = Enter 5 for each break attempt.",
    "url": "http://billiarduniversity.salvatore.us/images/d10_break.svg"
  }
 ]
