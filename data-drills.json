@@ -1,6 +1,5 @@
 [
  {
-   "id": "drill-f1",
    "title": "F1 - Cut Shot",
    "category": "fundamentals",
    "rules": "<ul><li>The CB is shown in the 4rth position, but begin with the CB in the first position on the gray line, opposite the diamond marked with the number 1.</li><li>Place the OB (the1-ball) at one ball's width from the rail as indicated.<li>Shoot the shot until you make it. If you miss, replace the CB and OB to their original positions and try again keeping track of each attempt.</li><li>With each success, position the CB at the next diamond on the line parallel to the rail as indicated.</li></lu>",
@@ -8,7 +7,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f1_cuts.svg"
  },
  {
-   "id": "drill-f2",
    "title": "F2 - Stop Shot",
    "category": "fundamentals",
    "rules": "<ul><li>Follow the instructions from drill F1.</li><li>The OB must be pocketed and the stopped CB must rest no more than one ball-length from the ghost ball position to be considered a success.</li><li>The CB is allowed to contact the cushion.</li><li>You are allowed to vary the CB and OB positions away from the rail as long as the CB remains within one diamond of the rail.</li></ul>",
@@ -16,7 +14,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f2_stops.svg"
  },
  {
-   "id": "drill-f3",
    "title": "F3 - Follow Shot",
    "category": "fundamentals",
    "rules": "<ul><li>Follow the instructions from drill F1.</li><li>The rectangular target can be printed and cut out from a template on the website. It is an 8.5”x11” sheet of paper with the center removed, leaving a 1 inch border.</li><li>The CB and OB are always 1 diamond apart.</li><li>The OB must be pocketed and the CB must end up within or overlapping the target for success.</li><li>Both the CB and OB are allowed to contact cushions. </li><li>You are allowed to vary the CB and OB positions away from the rail as long as the CB remains within one diamond of the rail.</li></ul>",
@@ -24,7 +21,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f3_follows.svg"
  },
  {
-   "id": "drill-f4",
    "title": "F4 - Draw Shot",
    "category": "fundamentals",
    "rules": "<ul><li>Follow the instructions from drill F1. </li><li>You must pocket the OB and the CB must end up within the 2x1 diamond rectangle adjacent to the side pocket. The CB center (or resting point on the cloth) must be inside of the rectangle border.</li><li>The CB is allowed to hit the side cushion.</li><li>The target rectangle area is fixed and does not move with the CB. </li><li>You are allowed to vary the CB and OB positions away from the rail as long as the CB remains within one diamond of the rail.</li></ul>",
@@ -32,7 +28,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f4_draws.svg"
  },
  {
-   "id": "drill-f5",
    "title": "F5 - Stun Shot",
    "category": "fundamentals",
    "rules": "<ul><li>The OB must be pocketed and the CB must end up within or overlapping the target for success. </li><li>Start with the target in position 1.</li><li>With each success, advance the target one position.</li><li>Note that the target center and orientation for position 4 is different from the others, with the long edge against the rail cushion. The target centers for the other positions are aligned with the long-rail diamonds.</li><li>The CB must head straight to the target (without cushion contact) for positions 1, 2, and 3, and the CB must rebound off the end rail for target positions 5, 6, and 7. Cushion contact is allowed, but not required, for target position 4.</li></ul>",
@@ -40,7 +35,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f5_stuns.svg"
  },
  {
-   "id": "drill-f6",
    "title": "F6 - Pocketing",
    "category": "fundamentals",
    "rules": "<li>Shoot all 5 shots from each CB position, attempting to pocket the OBs as shown.</li><li>Shoot each shot until you make it, replacing the CB and OB to their original positions before attempting again.</li><li>With each success, set up for the next shot as indicated.</li><li>You are not allowed to scratch. </li></ul>",
@@ -48,7 +42,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f6_pocketing.svg"
  },
  {
-   "id": "drill-f7",
    "title": "F7 - Wagon Wheel",
    "category": "fundamentals",
    "rules": "<ul><li>Pocket the OB and have the CB hit each of the rail target balls.</li><li>You score a point by pocketing the OB and hitting the current target ball. </li><li>Rail-first contact adjacent to the target ball is allowed, but you are not allowed to hit any other cushion on the way to the target ball.</li><li>Remove target balls completed, and reposition any remaining balls that are disturbed.</li></ul>",
@@ -56,7 +49,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f7_wheel.svg"
  },
  {
-   "id": "drill-f8",
    "title": "F8 - Grid Target",
    "category": "fundamentals",
    "rules": "<ul><li>The OB (1 ball) must be pocketed and the CB must end up within or overlapping each of the targets. </li><li>You can take any path to the target.</li></ul>",
@@ -64,7 +56,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/f8_targets.svg"
  },
  {
-   "id": "drill-b1",
    "title": "B1 - Line of Balls",
    "category": "bachelors",
    "rules": "<ul><li>Pocket the balls in rotation (i.e., in numerical order) in any pockets without scratching or contacting any of the remaining balls.</li><li>If you disturb a ball while pocketing one, the one pocketed counts, but the run ends.</li></ul>",
@@ -72,7 +63,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b1_line.svg"
  },
  {
-   "id": "drill-b2",
    "title": "B2 - Rail Cut Shot",
    "category": "bachelors",
    "rules": "<ul><li>Shoot the balls in any order.</li><li>You are not allowed to scratch, shoot combinations, or disturb any of the remaining balls.</li></ul>",
@@ -80,7 +70,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b2_rails.svg"
  },
  {
-   "id": "drill-b3a",
    "title": "B3a - 9-Ball Pattern 1",
    "category": "bachelors",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -88,7 +77,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b3a_9ball.svg"
  },
  {
-   "id": "drill-b3b",
    "title": "B3b - 9-Ball Pattern 2",
    "category": "bachelors",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -96,7 +84,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b3b_9ball.svg"
  },
  {
-   "id": "drill-b3c",
    "title": "B3c - 9-Ball Pattern 3",
    "category": "bachelors",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -104,7 +91,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b3c_9ball.svg"
  },
  {
-   "id": "drill-b4a",
    "title": "B4a - 8-Ball Pattern 1",
    "category": "bachelors",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -112,7 +98,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b4a_8ball.svg"
  },
  {
-   "id": "drill-b4b",
    "title": "B4b - 8-Ball Pattern 2",
    "category": "bachelors",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -120,7 +105,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b4b_8ball.svg"
  },
  {
-   "id": "drill-b4c",
    "title": "B4c - 8-Ball Pattern 3",
    "category": "bachelors",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -128,55 +112,48 @@
    "url": "http://billiarduniversity.salvatore.us/images/b4c_8ball.svg"
  },
  {
-   "id": "drill-b5",
    "title": "B5 - Safety Shot",
    "category": "bachelors",
    "rules": "<ul><li>Shoot into the OB (1 ball) from each of the three CB positions, to hide the OB from the CB with no direct path of contact between the balls.</li><li>The 1 ball may not be pocketed.</li><li>You are allowed to contact the balls in the obstacle cluster, but all of them must remain within or overlapping the target.</li><li>The rectangular target can be printed and cut out from a template on the website. It is an 8.5”x11” sheet of paper with the center removed, leaving a 1” border.</li></ul>",
-   "scoring": "Points = number of successful hides. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successful hides. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/b5_safety.svg"
  },
  {
-   "id": "drill-b6",
    "title": "B6 - Kick Shot",
    "category": "bachelors",
    "rules": "<ul><li>Kick at each OB off the same long rail (as shown), with the CB in the same starting position for each kick.</li><li>A scratch is considered a miss.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/b6_kicks.svg"
  },
  {
-   "id": "drill-b7",
    "title": "B7 - Bank Shot",
    "category": "bachelors",
    "rules": "<ul><li>With CB in hand for each shot, bank each ball cross side.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/b7_banks.svg"
  },
  {
-   "id": "drill-b8",
    "title": "B8 - Elevated Cue Shot",
    "category": "bachelors",
    "rules": "<ul><li>Pocket each OB from the indicated CB position without scratching.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/b8_elevated.svg"
  },
  {
-   "id": "drill-b9a",
    "title": "B9a - Jump Shot",
    "category": "bachelors",
    "rules": "<ul><li>Pocket the OB with no obstacle-ball contact.</li><li>Scratches are ok.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/b9a_jump.svg"
  },
  {
-   "id": "drill-b9b",
    "title": "B9b - Massé Shot",
    "category": "bachelors",
    "rules": "<ul><li>Pocket the OB with no obstacle-ball contact.</li><li>Scratches are ok.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/b9b_masse.svg"
  },
  {
-   "id": "drill-b10",
    "title": "B10 - Break Shot",
    "category": "bachelors",
    "rules": "<ul><li>Break the balls from behind the head string.</li><li>Score 1 point for each of the following:<ol><li>No scratch.</li><li>The CB was not driven to a cushion.</li><li>The CB remained within the center 4-diamond target zone during the entire break.</li><li>A ball(s) was pocketed</li><li></ol></li><li>Three or more OBs either pocketed and/or driven above the head string.</li></ul>",
@@ -184,7 +161,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/b10_break.svg"
  },
  {
-   "id": "drill-m1",
    "title": "M1 - Line of Balls",
    "category": "masters",
    "rules": "<ul><li>Pocket the balls in rotation (i.e., in numerical order) in any pockets without scratching or contacting any of the remaining balls.</li><li>If you disturb a ball while pocketing one, the one pocketed counts, but the run ends.</li></ul>",
@@ -192,7 +168,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m1_line.svg"
  },
  {
-   "id": "drill-m2",
    "title": "M2 - Rail Cut Shot",
    "category": "masters",
    "rules": "<ul><li>Shoot the balls in any order.</li><li>You are not allowed to scratch, shoot combinations, or disturb any of the remaining balls.</li></ul>",
@@ -200,7 +175,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m2_rails.svg"
  },
  {
-   "id": "drill-m3a",
    "title": "M3a - 9-Ball Pattern 1",
    "category": "masters",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -208,7 +182,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m3a_9ball.svg"
  },
  {
-   "id": "drill-m3b",
    "title": "M3b - 9-Ball Pattern 2",
    "category": "masters",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -216,7 +189,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m3b_9ball.svg"
  },
  {
-   "id": "drill-m3c",
    "title": "M3c - 9-Ball Pattern 3",
    "category": "masters",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -224,7 +196,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m3c_9ball.svg"
  },
  {
-   "id": "drill-m4a",
    "title": "M4a - 8-Ball Pattern 1",
    "category": "masters",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -232,7 +203,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m4a_8ball.svg"
  },
  {
-   "id": "drill-m4b",
    "title": "M4b - 8-Ball Pattern 2",
    "category": "masters",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -240,7 +210,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m4b_8ball.svg"
  },
  {
-   "id": "drill-m4c",
    "title": "M4c - 8-Ball Pattern 3",
    "category": "masters",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -248,55 +217,48 @@
    "url": "http://billiarduniversity.salvatore.us/images/m4c_8ball.svg"
  },
  {
-   "id": "drill-m5",
    "title": "M5 - Safety Shot",
    "category": "masters",
    "rules": "<ul><li>Shoot into the OB (1 ball) from each of the three CB positions, to hide the OB from the CB with no direct path of contact between the balls.</li><li>The 1 ball may not be pocketed.</li><li>You are allowed to contact the balls in the obstacle cluster, but all of them must remain within or overlapping the target.</li><li>The rectangular target can be printed and cut out from a template on the website. It is an 8.5”x11” sheet of paper with the center removed, leaving a 1” border.</li></ul>",
-   "scoring": "Points = number of successful hides. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successful hides. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/m5_safety.svg"
  },
  {
-   "id": "drill-m6",
    "title": "M6 - Kick Shot",
    "category": "masters",
    "rules": "<ul><li>Kick at each OB off the same long rail (as shown), with the CB in the same starting position for each kick.</li><li>A scratch is considered a miss.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/m6_kicks.svg"
  },
  {
-   "id": "drill-m7",
    "title": "M7 - Bank Shot",
    "category": "masters",
    "rules": "<ul><li>With CB in hand for each shot, bank each ball cross side.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/m7_banks.svg"
  },
  {
-   "id": "drill-m8",
    "title": "M8 - Elevated Cue Shot",
    "category": "masters",
    "rules": "<ul><li>Pocket each OB from the indicated CB position without scratching.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/m8_elevated.svg"
  },
  {
-   "id": "drill-m9a",
    "title": "M9a - Jump Shot",
    "category": "masters",
    "rules": "<ul><li>Pocket the OB with no obstacle-ball contact.</li><li>Scratches are ok.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/m9a_jump.svg"
  },
  {
-   "id": "drill-m9b",
    "title": "M9b - Massé Shot",
    "category": "masters",
    "rules": "<ul><li>Pocket the OB with no obstacle-ball contact.</li><li>Scratches are ok.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/m9b_masse.svg"
  },
  {
-   "id": "drill-m10",
    "title": "M10 - Break Shot",
    "category": "masters",
    "rules": "<ul><li>Break the balls from behind the head string.</li><li>Score 1 point for each of the following:<ol><li>No scratch.</li><li>The CB was not driven to a cushion.</li><li>The CB remained within the center 4-diamond target zone during the entire break.</li><li>A ball(s) was pocketed</li><li></ol></li><li>Three or more OBs either pocketed and/or driven above the head string.</li></ul>",
@@ -304,7 +266,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/m10_break.svg"
  },
  {
-   "id": "drill-d1",
    "title": "D1 - Line of Balls",
    "category": "doctorate",
    "rules": "<ul><li>Pocket the balls in rotation (i.e., in numerical order) in any pockets without scratching or contacting any of the remaining balls.</li><li>If you disturb a ball while pocketing one, the one pocketed counts, but the run ends.</li></ul>",
@@ -312,7 +273,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/d1_line.svg"
  },
  {
-   "id": "drill-d2",
    "title": "D2 - Rail Cut Shot",
    "category": "doctorate",
    "rules": "<ul><li>Shoot the balls in any order.</li><li>You are not allowed to scratch, shoot combinations, or disturb any of the remaining balls.</li></ul>",
@@ -320,7 +280,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/d2_rails.svg"
  },
  {
-   "id": "drill-d3a",
    "title": "D3a - 9-Ball Pattern 1",
    "category": "doctorate",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -328,7 +287,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/d3a_9ball.svg"
  },
  {
-   "id": "drill-d3b",
    "title": "D3b - 9-Ball Pattern 2",
    "category": "doctorate",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -336,7 +294,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/d3b_9ball.svg"
  },
  {
-   "id": "drill-d3c",
    "title": "D3c - 9-Ball Pattern 3",
    "category": "doctorate",
    "rules": "<ul><li>Pocket each ball legally (w/o scratching) under 9-ball “rotation” rules, always hitting the lowest-numbered ball first. </li><li>If the 9-ball is pocketed early (e.g., with a combo or carom shot), you must still pocket the remaining balls in rotation.</li></ul>",
@@ -344,7 +301,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/d3c_9ball.svg"
  },
  {
-   "id": "drill-d4a",
    "title": "D4a - 8-Ball Pattern 1",
    "category": "doctorate",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -352,7 +308,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/d4a_8ball.svg"
  },
  {
-   "id": "drill-d4b",
    "title": "D4b - 8-Ball Pattern 2",
    "category": "doctorate",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -360,7 +315,6 @@
    "url": "http://billiarduniversity.salvatore.us/images/d4b_8ball.svg"
  },
  {
-   "id": "drill-d4c",
    "title": "D4c - 8-Ball Pattern 3",
    "category": "doctorate",
    "rules": "<ul><li>Pocket each striped ball legally and by calling your shot before attempting the 8-ball.</li><li>Call and pocket the 8-ball.</li><li>You are allowed to contact the obstacle balls on the table.</li></ul>",
@@ -368,55 +322,48 @@
    "url": "http://billiarduniversity.salvatore.us/images/d4c_8ball.svg"
  },
  {
-   "id": "drill-d5",
    "title": "D5 - Safety Shot",
    "category": "doctorate",
    "rules": "<ul><li>Shoot into the OB (1 ball) from each of the three CB positions, to hide the OB from the CB with no direct path of contact between the balls.</li><li>The 1 ball may not be pocketed.</li><li>You are allowed to contact the balls in the obstacle cluster, but all of them must remain within or overlapping the target.</li><li>The rectangular target can be printed and cut out from a template on the website. It is an 8.5”x11” sheet of paper with the center removed, leaving a 1” border.</li></ul>",
-   "scoring": "Points = number of successful hides. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successful hides. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/d5_safety.svg"
  },
  {
-   "id": "drill-d6",
    "title": "D6 - Kick Shot",
    "category": "doctorate",
    "rules": "<ul><li>Kick at each OB off the same long rail (as shown), with the CB in the same starting position for each kick.</li><li>A scratch is considered a miss.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/d6_kicks.svg"
  },
  {
-   "id": "drill-d7",
    "title": "D7 - Bank Shot",
    "category": "doctorate",
    "rules": "<ul><li>With CB in hand for each shot, bank each ball cross side.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/d7_banks.svg"
  },
  {
-   "id": "drill-d8",
    "title": "D8 - Elevated Cue Shot",
    "category": "doctorate",
    "rules": "<ul><li>Pocket each OB from the indicated CB position without scratching.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/d8_elevated.svg"
  },
  {
-   "id": "drill-d9a",
    "title": "D9a - Jump Shot",
    "category": "doctorate",
    "rules": "<ul><li>Pocket the OB with no obstacle-ball contact.</li><li>Scratches are ok.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/d9a_jump.svg"
  },
  {
-   "id": "drill-d9b",
    "title": "D9b - Massé Shot",
    "category": "doctorate",
    "rules": "<ul><li>Pocket the OB with no obstacle-ball contact.</li><li>Scratches are ok.</li></ul>",
-   "scoring": "Points = number of successes. Attempts = number of shots to acheive those successes.",
+   "scoring": "Points = number of successes. Attempts = number of shots to achieve those successes.",
    "url": "http://billiarduniversity.salvatore.us/images/d9b_masse.svg"
  },
  {
-   "id": "drill-d10",
    "title": "D10 - Break Shot",
    "category": "doctorate",
    "rules": "<ul><li>Break the balls from behind the head string.</li><li>Score 1 point for each of the following:<ol><li>No scratch.</li><li>The CB was not driven to a cushion.</li><li>The CB remained within the center 4-diamond target zone during the entire break.</li><li>A ball(s) was pocketed</li><li></ol></li><li>Three or more OBs either pocketed and/or driven above the head string.</li></ul>",
